@@ -7,5 +7,8 @@
 ## Jenkins Lab 
 ![Jenkins Lab](Jenkins%20Lab%20simple-java-maven-app.png)
 
+## Jenkins Test Results
+![Jenkins Lab Tests](Jenkins%20Lab%20Tests.png)
+
 ## PCF Lab
 ### http://chatorama.cfapps.io/

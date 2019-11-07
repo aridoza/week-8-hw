@@ -10,5 +10,8 @@
 ## Jenkins Test Results
 ![Jenkins Lab Tests](Jenkins%20Lab%20Tests.png)
 
+## Console Screenshot of Test Results
+![Jenkins Lab Test Console](Jenkins-test-result-console.png)
+
 ## PCF Lab
 ### http://chatorama.cfapps.io/
